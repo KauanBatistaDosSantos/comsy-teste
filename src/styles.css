@@ -1,0 +1,17 @@
+:root {
+    --fundo: #1F2027;
+    --vermelho-figma: #D32E2E;
+    --branco-figma: #fff;
+    --amarelo-figma: #E8BB2D;
+    --cinza-figma: #455A64;
+    --cinza-texto: #4D4D4D;
+    --preto-texto: #000;
+    --branco-texto: #fff;
+    --verde-entregador-disponivel: #00FF1E;
+}
+
+* {
+    background-color: var(--fundo);
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
